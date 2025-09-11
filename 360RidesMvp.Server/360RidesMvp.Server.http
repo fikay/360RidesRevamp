@@ -1,0 +1,6 @@
+@_360RidesMvp.Server_HostAddress = http://localhost:5163
+
+GET {{_360RidesMvp.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
