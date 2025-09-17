@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "360Rides.Shared", "src\360R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "360Rides.Infrastructure", "src\360Rides.Infrastructure\360Rides.Infrastructure.csproj", "{D5D408A3-3AD3-4CF1-AD9D-BCDA8E39DEDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "360Rides.Modules.Notifications", "Modules\Notifications\360Rides.Modules.Notifications\360Rides.Modules.Notifications.csproj", "{49E4AE2D-6B54-4B37-A6F7-21E5C27E0DCC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "360Rides.Modules.Notifications", "src\Modules\Notifications\360Rides.Modules.Notifications\360Rides.Modules.Notifications.csproj", "{0BE0356E-C27C-3E5F-655C-BA56E1AD51AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,10 +37,10 @@ Global
 		{D5D408A3-3AD3-4CF1-AD9D-BCDA8E39DEDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5D408A3-3AD3-4CF1-AD9D-BCDA8E39DEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5D408A3-3AD3-4CF1-AD9D-BCDA8E39DEDC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{49E4AE2D-6B54-4B37-A6F7-21E5C27E0DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{49E4AE2D-6B54-4B37-A6F7-21E5C27E0DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{49E4AE2D-6B54-4B37-A6F7-21E5C27E0DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{49E4AE2D-6B54-4B37-A6F7-21E5C27E0DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BE0356E-C27C-3E5F-655C-BA56E1AD51AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BE0356E-C27C-3E5F-655C-BA56E1AD51AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BE0356E-C27C-3E5F-655C-BA56E1AD51AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BE0356E-C27C-3E5F-655C-BA56E1AD51AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
